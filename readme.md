@@ -2,4 +2,4 @@
 
 ## You can Play a simple car racing by a single click
 
-## It will hosted on
+## It will hosted on https://shapes.codeswithankit.now.sh/
